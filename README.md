@@ -30,7 +30,7 @@ The project report records the following test accuracies:
 
 | Model | Test accuracy |
 |---|---:|
-| Linear SVM | 62.5% |
+| Linear SVM | 58% |
 | RBF Kernel SVM | 85.0% |
 | Quantum SVM (QSVM) | 98.0% |
 | QSVM with noisy execution | 90.0% |
